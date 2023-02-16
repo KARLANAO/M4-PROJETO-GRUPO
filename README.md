@@ -20,7 +20,7 @@ Independentemente do modo de jogo escolhido no League of Legends, exceto em even
 
 • Power BI
 
-# Consultas
+# Consultas:
 
 ![5ligas](https://user-images.githubusercontent.com/112179212/219369123-26da7577-e423-4741-a0b6-888e485e4b3d.png)
 
@@ -28,7 +28,7 @@ Independentemente do modo de jogo escolhido no League of Legends, exceto em even
 
 ![5objetivos](https://user-images.githubusercontent.com/112179212/219369414-022a2aef-3ecb-410e-bb42-dd0297bcbae4.png)
 
-# Gráficos
+# Gráficos:
 
 ![top 5 ligas com maiores tempos de partida](https://user-images.githubusercontent.com/112179212/219368864-d4f5de42-4e5c-4e91-9a7f-a69a6164e742.png)
 
